@@ -58,10 +58,10 @@ body{
 }
 
 .card-img-overlay{
-  padding-top: 70px;
+  padding-top: 90px;
   opacity: 0;
   transition: 0.7s ease-in-out;
-  background-color: rgba(0, 109, 33, 0.5);
+  background: linear-gradient(180deg, rgba(2,82,1,1) 0%, rgba(0,158,41,1) 52%, rgba(2,82,1,1) 100%);
 }
 
 .card-img-overlay:hover{
